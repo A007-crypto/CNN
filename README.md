@@ -1,2 +1,2 @@
-# FACE-EMOTION-RECOGNITION
-IMAGE PREPROCESSING USING SKIMAGE AND OPEN CV
+# CNN
+A Convolutional Neural Network using a basic in built datasets
